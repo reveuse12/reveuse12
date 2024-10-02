@@ -1,5 +1,6 @@
 # Prayag Bagthariya
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=prayag-bagthariya.readme)](https://github.com/prayag-bagthariya)
+![Visitor Count](https://profile-counter.glitch.me/reveuse12/count.svg)
+
 
 ## 👨‍💻 Frontend Developer | MERN Stack Specialist
 
