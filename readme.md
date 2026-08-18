@@ -65,6 +65,26 @@ A multi-tenant SaaS with hierarchical organization structures and granular RBAC.
 
 **Stack:** Next.js, TypeScript, Django, PostgreSQL, Stripe, Xero API, AWS.
 
+## Additional projects
+
+### [Pramaan](https://pramaan-insights.vercel.app/) — MCA Due-Diligence SaaS
+
+A pay-per-report due-diligence platform for Indian companies. It provides free search across approximately **3.6 million MCA-registered companies**, then unlocks enriched reports with Green/Amber/Red risk signals, automated red-flag detection, director networks, charges, compliance data, and fetch-date provenance. The platform uses a free OGD data layer and paid live enrichment, with transactional credit spending and organization workspaces.
+
+**Stack:** TanStack Start, React, TypeScript, PostgreSQL, Supabase, Drizzle ORM, Razorpay, Bun.
+
+### Manas — Mind & Document Intelligence Core
+
+An enterprise document-intelligence platform that turns PDFs, manuals, and knowledge bases into a semantic retrieval experience with real-time streaming citations. It includes document ingestion and embedding, role-based access control, persistent chat history, and a knowledge interface designed to keep answers grounded in source documents.
+
+**Stack:** Next.js, Google Gemini, pgvector, Supabase, Vercel AI SDK, TypeScript.
+
+### Creative Eateries — Restaurant Reservation System
+
+A reservation and event-management platform for a restaurant group, integrating CRM and loyalty workflows so bookings, events, and repeat-customer data are managed in one system. The application was designed for peak booking periods with AWS-based deployment and load balancing.
+
+**Stack:** React, Redux, Express.js, MongoDB, AWS EC2, CRM integrations.
+
 ## Experience
 
 | Role | Organization | Period |
